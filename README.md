@@ -1,6 +1,7 @@
 Edit files with `GNU sed` directly from `nvim`. Provides an intuitive user interface for applying `sed` commands to the buffer. Allows you to perform all `sed` text operations right from the editor.
 
 ### Preview:
+![sednvim_fcropped](https://github.com/Green0wl/sednvim/assets/72041440/0056b719-76f7-48ae-8fbc-3d2197fe0df1)
 
 ### Features:
 
