@@ -21,7 +21,7 @@ Edit files with `GNU sed` directly from `nvim`. Provides an intuitive user inter
 
 ```lua
 return {
-  dir = "~/dev/sednvim",
+  "Green0wl/sednvim",
   config = function()
     vim.keymap.set("n", "<leader>dc", function()
       require("sednvim").sedcmd_input()
